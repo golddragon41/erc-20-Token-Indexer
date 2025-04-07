@@ -62,7 +62,6 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://erc-20-token-indexer-ev14.vercel.app/)
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -105,15 +104,6 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-<!-- CONTACT -->
-## Contact
-
-Your Name - [@favourejim56](https://twitter.com/favourejim56) - favourejim56@gmail.com
-
-Project Link: [https://github.com/github_username/erc-20-Token-Indexer](https://github.com/github_username/erc-20-Token-Indexer)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
